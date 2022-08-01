@@ -1,0 +1,13 @@
+# This File Contains the Configurations for TipMessages
+
+#whether to send tip on every login
+tip-on-login: true
+
+#whether to send tip periodically
+tip-periodically: true
+
+#period to send tips at (in ticks)
+tip-period: 72000 #1 hour
+
+# DO NOT EDIT
+config-version: 1
