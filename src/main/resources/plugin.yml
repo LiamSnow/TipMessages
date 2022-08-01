@@ -8,12 +8,12 @@ depend: []
 softdepend: []
 commands:
   tipmessages-reload:
-    description: Reloads the TipMessages config & messages
+    description: Reloads the TipMessages config & data
     usage: /<command>
     aliases: [ tm-reload ]
     default: op
   tipmessages-force:
     description: Force sends a message to all players
     usage: /<command>
-    aliases: [ tm-setspawn ]
+    aliases: [ tm-force ]
     default: op

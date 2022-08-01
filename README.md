@@ -9,7 +9,7 @@ See `config.yml` and `messages.yml`.
 
 ## Admin (OP) Commands
 
-`/tipmessages-reload` Reloads the TipMessages config & messages
+`/tipmessages-reload` Reloads the TipMessages config & data
 
 `/tipmessages-force` Force sends a message to all players
 

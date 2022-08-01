@@ -1,13 +1,27 @@
 # This File Contains the Configurations for TipMessages
 
-#whether to send tip on every login
+# whether to send tip on every login
 tip-on-login: true
 
-#whether to send tip periodically
+# delay to send tip after logging on (in ticks)
+tip-login-delay: 60 #3 seconds
+
+# whether to send tip periodically
 tip-periodically: true
 
-#period to send tips at (in ticks)
-tip-period: 72000 #1 hour
+# period to send tips at (in ticks)
+#tip-period: 72000 #1 hour
+tip-period: 200
+
+# message formatting
+message-prefix: "&7&o[Tip] "
+message-suffix: ""
+
+# the messages to send players
+messages:
+  - "TEST1"
+  - "TEST2"
+  - "TEST3"
 
 # DO NOT EDIT
 config-version: 1
