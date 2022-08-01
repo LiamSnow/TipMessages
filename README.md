@@ -1,5 +1,5 @@
 # TipMessages
-TODO
+Spigot plugin to periodically send tip messages to players in game.
 
 ## Description
 TODO
