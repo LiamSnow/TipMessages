@@ -10,7 +10,6 @@ import java.util.UUID;
 
 public class TipSender {
 
-
 	public static void sendAll() {
 		List<Player> players = (List<Player>) Bukkit.getOnlinePlayers();
 
